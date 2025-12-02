@@ -1,4 +1,4 @@
-package adventcode.ex1;
+package adventcode.dayone;
 
 public class Lock2 {
     public Integer execute(int startingPoint, String instructions) {

@@ -1,4 +1,4 @@
-package adventcode.ex1;
+package adventcode.dayone;
 
 public class RotateRight {
 

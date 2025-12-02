@@ -1,4 +1,4 @@
-package adventcode.ex1;
+package adventcode.dayone;
 
 
 import org.junit.jupiter.api.Test;

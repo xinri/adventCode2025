@@ -1,6 +1,4 @@
-package adventcode.ex1;
-
-import java.util.LinkedList;
+package adventcode.dayone;
 
 public class RotateLeft {
 

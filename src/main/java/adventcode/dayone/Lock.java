@@ -1,6 +1,4 @@
-package adventcode.ex1;
-
-import java.util.Map;
+package adventcode.dayone;
 
 public class Lock {
 
